@@ -1,1 +1,1 @@
-# java_hw1_jmalinverno
+# Projects in Java
